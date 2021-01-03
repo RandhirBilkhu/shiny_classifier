@@ -1,5 +1,0 @@
----
-title: "Randhirs Blogd"
-site: distill::distill_website
-listing: posts
----

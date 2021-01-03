@@ -1,5 +1,0 @@
----
-title: "Randhir Bilkhu"
-site: distill::distill_website
-listing: posts
----
