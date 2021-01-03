@@ -19,7 +19,7 @@ golem::fill_desc(
   pkg_description = "An application to review performance of common text classifiers", # The Description of the package containing the App 
   author_first_name = "RandhirT", # Your First Name
   author_last_name = "Bilkhu", # Your Last Name
-  author_email = "randz20@hotmail.com", # Your Email
+  author_email = NULL, # Your Email
   repo_url = "https://github.com/RandhirBilkhu/shiny_classifier.git" # The URL of the GitHub Repo (optional) 
 )     
 

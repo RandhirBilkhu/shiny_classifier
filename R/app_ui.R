@@ -10,7 +10,8 @@ app_ui <- function(request) {
     golem_add_external_resources(),
     # List the first level UI elements here 
     fluidPage(
-      h1("shinyclassify")
+      h1("shinyclassify"),
+      fileInput("load_file", "select file" )
     )
   )
 }

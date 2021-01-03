@@ -16,7 +16,6 @@ knitr::opts_chunk$set(
 # shinyclassify
 
 <!-- badges: start -->
-[![Lifecycle: experimental](https://img.shields.io/badge/lifecycle-experimental-orange.svg)](https://www.tidyverse.org/lifecycle/#experimental)
 <!-- badges: end -->
 
 The goal of shinyclassify is to ...
@@ -33,14 +32,14 @@ And the development version from [GitHub](https://github.com/) with:
 
 ``` r
 # install.packages("devtools")
-devtools::install_github("RandhirBilkhu/distill-blog")
+devtools::install_github("RandhirBilkhu/shiny_classifier")
 ```
 ## Example
 
 This is a basic example which shows you how to solve a common problem:
 
 ```{r example}
-library(shinyclassify)
+#library(shinyclassify)
 ## basic example code
 ```
 
