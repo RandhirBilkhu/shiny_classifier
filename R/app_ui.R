@@ -7,11 +7,12 @@
 app_ui <- function(request) {
   tagList(
     # Leave this function for adding external resources
-    golem_add_external_resources(),
+  # golem_add_external_resources(),
     # List the first level UI elements here 
     fluidPage(
       h1("shinyclassify"),
-      fileInput("load_file", "select file" )
+      fileInput("load_file", "select file" ),
+      mod_classify_ui("classify_ui_1")
     )
   )
 }
